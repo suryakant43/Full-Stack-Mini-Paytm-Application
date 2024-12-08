@@ -12,3 +12,5 @@ A Paytm clone is a powerful full stack app where users can transfer money from o
 
 ![image](https://github.com/user-attachments/assets/0f2debae-556c-44ba-b4ba-010f418d1753)
 
+**Send Money**
+![image](https://github.com/user-attachments/assets/7ad171b5-352a-469b-8007-f9e6e51065ed)
